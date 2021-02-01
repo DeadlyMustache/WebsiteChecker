@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Websites>
+  <Website Name="Yandex" URL="https://yandex.ru" CheckInterval="180" />
+  <Website Name="Vkontanke" URL="http://vk.com" CheckInterval="30" />
+  <Website Name="YouTube" URL="https://youtube.com" CheckInterval="30" />
+  <Website Name="Wikipedia" URL="https://ru.wikipedia.org/" CheckInterval="10" />
+  <Website Name="Mail" URL="https://mail.ru" CheckInterval="30" />
+  <Website Name="Google" URL="https://google.com" CheckInterval="20" />
+  <Website Name="ser" URL="http://www.usa.gov" CheckInterval="60" />
+</Websites>

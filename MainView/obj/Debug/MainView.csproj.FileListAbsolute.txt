@@ -1,0 +1,9 @@
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\bin\Debug\MainView.exe.config
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\bin\Debug\MainView.exe
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\bin\Debug\MainView.pdb
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.csprojAssemblyReference.cache
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.Form1.resources
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.Properties.Resources.resources
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.csproj.GenerateResource.cache
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.exe
+C:\Users\dinar\source\repos\WebsiteChecker\MainView\obj\Debug\MainView.pdb
